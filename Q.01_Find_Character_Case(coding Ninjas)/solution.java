@@ -13,9 +13,10 @@ class Solution {
         else if( user_input>=65 && user_input<90 ){
             System.out.println(1);
         }
-        else{
+        else {
             System.out.println(-1);
         }
+        sc.close();
 
     }
 }
