@@ -1,8 +1,6 @@
-// Java Solution
-
 import java.util.*;
 
-public class Solution {
+class Solution {
     
     public static void main(String[] args) {
         // Write your code here
@@ -21,14 +19,3 @@ public class Solution {
 
     }
 }
-
-
-// Python solution
-
-user_input = input()
-if "A"<=user_input<"Z":
-    print(1)
-elif "a"<=user_input<"z":
-    print(0)
-else:
-    print(-1)
