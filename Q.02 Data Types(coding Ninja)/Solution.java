@@ -1,5 +1,3 @@
-import com.sun.java_cup.internal.runtime.Scanner;
-
 public class Solution {
     public static int dataTypes(String type) {
         // Write your code here
