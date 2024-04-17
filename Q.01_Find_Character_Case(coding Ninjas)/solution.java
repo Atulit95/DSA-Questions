@@ -17,6 +17,6 @@ class Solution {
             System.out.println(-1);
         }
         sc.close();
-
+ 
     }
 }
