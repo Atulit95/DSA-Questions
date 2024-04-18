@@ -9,6 +9,6 @@ public class Solution {
             case 2:
                 area=a[0]*a[1];
         }
-        return area;
+        return area; 
     }
 }
