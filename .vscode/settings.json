@@ -2,5 +2,11 @@
     "java.project.sourcePaths": [
         "."
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.showExecutionMessage": true,
+    "code-runner.showRunCommandInEditorContextMenu": true,
+    "code-runner.showRunCommandInExplorerContextMenu": true
 }
