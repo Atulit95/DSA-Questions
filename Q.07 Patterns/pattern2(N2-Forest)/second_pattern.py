@@ -3,7 +3,7 @@ def nForest(n: int) -> None:
     for i in range(0, n + 1):
         for j in range(0, i):
             print("* ", end="")
-        print()
+        print("\n", end="")
 
 
 print(nForest(5))
