@@ -14,6 +14,6 @@ public class Count_Digit {
             duplicate_n = duplicate_n / 10;
         }
         System.out.println(count);
-
+        sc.close();
     }
 }
