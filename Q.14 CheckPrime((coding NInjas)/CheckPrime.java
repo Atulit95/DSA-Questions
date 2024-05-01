@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class CheckPrime {
     public static String isPrime(int num) {
 		//Your code goes here
