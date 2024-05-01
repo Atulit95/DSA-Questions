@@ -1,5 +1,4 @@
-def calcGCD(n:int, m: int) -> int:
-    # Write your code here
+def calcGDC(n: int, m: int) -> int:
     if m > n:
         n, m = m, n
 
@@ -12,4 +11,4 @@ def calcGCD(n:int, m: int) -> int:
 
 n=int(input())
 m=int(input())
-print(calcGCD(n,m))
+print(calcGDC(n,m))
